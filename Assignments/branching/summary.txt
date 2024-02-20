@@ -1,0 +1,1 @@
+In Git, branching refers to the practice of diverging from the main line of development (often called the "master" branch) to work on different features or fixes in isolation. Branches allow developers to work on separate tasks concurrently without interfering with each other's changes.
